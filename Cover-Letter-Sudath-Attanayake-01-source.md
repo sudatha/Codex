@@ -1,0 +1,28 @@
+﻿# Sudath Attanayake
+Melbourne, VIC, Australia
+LinkedIn: linkedin.com/in/sudath-attanayake
+Email: sudatha@gmail.com | Phone: 0411040055
+
+[Date]
+
+Hiring Manager
+Allura Partners
+Melbourne, VIC
+
+**Re: Enterprise Data Architect**
+
+Dear Hiring Manager,
+
+I am writing to express my interest in the Enterprise Data Architect role. With over 15 years of experience in data platforms, architecture, and large-scale enterprise data modernization, I offer strong capability in designing and delivering cloud data ecosystems that support strategic business outcomes.
+
+In my most recent role as Data Platform Lead at Attekus, I led the evolution of a modern Microsoft Fabric and Lakehouse platform, introduced Fabric Mirroring, and established Medallion architecture standards to improve data quality, scalability, and cost efficiency. Previously, at Abano Healthcare Group, I served as architecture owner for a complex enterprise analytics environment with 250+ data endpoints and led critical data integration and modernization initiatives across major business domains.
+
+I have hands-on experience in enterprise data modelling, data warehousing, migration, integration, and platform optimization across Azure and SQL Server environments. I have also led mission-critical migration and cutover programs, implemented governance-aligned data practices, and partnered closely with engineering and business stakeholders to deliver trusted analytics capability.
+
+What particularly attracts me to this opportunity is the scale of transformation, the investment in data and AI foundations, and the opportunity to work closely with senior leadership to shape enterprise-wide architecture standards and practices. I am confident I can add value by helping define and implement a practical, scalable, and business-aligned data architecture roadmap.
+
+Thank you for your time and consideration. I would welcome the opportunity to discuss how my background aligns with your client’s enterprise data transformation goals.
+
+Yours sincerely,
+
+Sudath Attanayake

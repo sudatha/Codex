@@ -1,0 +1,74 @@
+﻿Sudath Attanayake
+Melbourne, VIC, Australia | Open to Melbourne/Sydney hybrid roles
+LinkedIn: linkedin.com/in/sudath-attanayake | Email: sudatha@gmail.com | Phone: 0411040055
+
+Head of Data Platforms | Enterprise Data Platform and Analytics Leader
+
+Professional Summary
+Senior data platform leader with 15+ years of experience delivering enterprise-scale data strategy, architecture, and platform modernization across complex and regulated environments. Most recent enterprise architecture experience includes leading Data and Analytics Architect responsibilities across a 250+ endpoint environment spanning finance, payroll, and clinical domains. Proven capability leading cloud data platform transformation on Microsoft Azure and Fabric, enabling analytics, reporting, and advanced data use cases. Strong track record partnering with executive stakeholders, driving platform performance and cost optimization, and managing vendor-aligned delivery across large, multi-domain data estates.
+
+Core Leadership and Technical Capabilities
+- Enterprise data platform strategy and roadmap ownership
+- Cloud-native data platforms: Microsoft Azure, Microsoft Fabric, SQL Server
+- Lakehouse, data warehouse, and Medallion architecture (Bronze/Silver/Gold)
+- Batch, near real-time, and streaming data integration patterns
+- Data governance, stewardship, metadata, security, and compliance controls
+- DataOps and engineering delivery discipline (automation, quality, reliability)
+- Executive stakeholder engagement and cross-functional leadership
+- Vendor and partner management across platform and integration initiatives
+- Platform performance tuning, operational resilience, and cost optimization
+
+Professional Experience
+
+Attekus, Melbourne, Australia (Hybrid)
+Data Platform Lead | May 2025 - Feb 2026
+- Led enterprise data platform strategy and modernization using Microsoft Fabric, Lakehouse, and Medallion architecture patterns.
+- Introduced Fabric Mirroring from Azure SQL to scale ingestion and improve analytics readiness.
+- Drove platform performance and cost optimization across ingestion, transformation, and reporting layers.
+- Partnered with engineering, product, and business leaders to align data platform priorities with strategic outcomes.
+
+Abano Healthcare Group, Melbourne, Australia (Hybrid)
+Data and Analytics Architect | Nov 2022 - Apr 2025
+- Architecture owner for enterprise analytics platform supporting 250+ data endpoints across finance, payroll, and clinical domains.
+- Defined enterprise data architecture standards and roadmapped platform uplift initiatives across key business domains.
+- Designed and governed conceptual, logical, and physical data models for enterprise reporting, advanced analytics, and self-service consumption.
+- Led modernization of legacy WhereScape RED architecture into scalable, cloud-aligned data platform patterns.
+- Directed integration and migration initiatives across critical business domains, improving data trust, consistency, and usability.
+- Partnered with senior business and technology leaders to prioritize delivery, sequencing, and investment-aligned outcomes.
+- Managed delivery coordination with internal teams and external technology vendors/partners to align scope, timelines, and platform performance objectives.
+
+Abano Healthcare Group, Auckland, New Zealand
+Senior DBA | Sep 2021 - Nov 2022
+- Stabilized Australian and New Zealand enterprise data warehouses, improving performance and reducing operational cost.
+- Led D365 Finance and Operations (FinOps) and HR integration enhancements supporting enterprise process changes.
+- Worked with business leaders and delivery partners to evaluate modernization options and improve platform sustainability.
+
+Whanau Tahi Limited, Auckland, New Zealand
+Senior Database Administrator | Oct 2016 - Sep 2021
+- Primary DBA for New Zealand's national e-Prescription platform in a mission-critical healthcare environment.
+- Led migration of 8 TB SQL Server workload to Azure using replication with minimal downtime.
+- Improved platform reliability, scalability, and compliance through partitioning, tuning, and operational hardening.
+
+SimplHealth, Auckland, New Zealand
+Senior DBA | Mar 2013 - Nov 2016
+- Delivered healthcare data integration and database solutions, including HL7 real-time e-Prescription data handling.
+- Persisted streaming data into relational structures, reporting layers, and Ministry of Health extracts.
+
+Whangarei District Council, Whangarei, New Zealand
+Senior DBA | Sep 2007 - Mar 2013
+- Primary data engineer for migration of legacy Property and Rating data to the TechnologyOne platform.
+- Designed migration pipelines and reporting datasets, and led data quality testing, UAT, and production cutover.
+
+Northland District Health Board, New Zealand
+DBA | 2003 - 2007
+- Modernized legacy Microsoft Access backend systems to SQL Server and .NET platform solutions.
+- Led change data migration, Citrix application packaging, and live cutover for clinical application transition.
+
+Education
+MSc, Engineering - Georgian Technical University (First Class with Honors)
+A/L (Double Maths, Physics, Chemistry) - Ananda College
+
+Additional Information
+- Location: Melbourne, VIC (open to Sydney)
+- Target roles: Head of Data Platforms, Enterprise Data Platform Leadership
+- Domain experience: Large-scale, regulated enterprise environments with strong governance and reliability requirements

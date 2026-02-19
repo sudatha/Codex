@@ -1,0 +1,151 @@
+Sudath Attanayake
+
+Melbourne, VIC, Australia | Open to Melbourne/Sydney hybrid roles
+
+LinkedIn: linkedin.com/in/sudath-attanayake | Email: sudatha@gmail.com |
+Phone: 0411040055
+
+Enterprise Data Architect | Data Platform & Analytics Leader
+
+Professional Summary
+
+Enterprise data and analytics leader with 15+ years of experience
+designing, modernizing, and operating large-scale data platforms across
+complex, regulated environments. Proven track record delivering cloud
+data architecture on Azure and Microsoft Fabric, leading enterprise data
+migration and integration programs, and enabling trusted analytics
+through Lakehouse and Medallion architectures. Strong stakeholder
+leadership across executives, architecture, engineering, and business
+teams, with deep expertise in data modelling, platform performance,
+governance, and scalable data operations.
+
+Core Capabilities
+
+- Enterprise Data Architecture (conceptual, logical, physical)
+- Microsoft Fabric and Azure Data Platform
+- Lakehouse and Medallion Architecture (Bronze/Silver/Gold)
+- Enterprise Data Modelling and Data Warehousing
+- Large-Scale Data Migration and Modernization
+- Data Integration (ETL/ELT), APIs, and Pipeline Design
+- Data Governance, Stewardship, Metadata, and Quality Controls
+- Platform Security, Privacy, and Compliance Alignment
+- Performance Optimization and Cost Management
+- Executive Stakeholder Engagement and Team Mentoring
+
+Professional Experience
+
+Attekus, Melbourne, Australia (Hybrid)
+
+Data Platform Lead | May 2025 - February
+
+- Define and lead modern enterprise data architecture using Microsoft
+  Fabric and Lakehouse patterns.
+- Introduced Fabric Mirroring to simplify and scale ingestion from Azure
+  SQL into analytics-ready layers.
+- Established Medallion architecture standards to improve consistency,
+  data quality, and reusability across domains.
+- Partner closely with engineering and product leaders to align platform
+  capabilities with business strategy.
+- Drive platform performance and cost optimization across ingestion,
+  transformation, and consumption layers.
+
+Abano Healthcare Group, Melbourne, Australia (Hybrid)
+
+Data and Analytics Architect | Nov 2022 - Apr 2025
+
+- Architecture owner for enterprise analytics platform supporting 250+
+  data endpoints across multiple business domains.
+- Designed and evolved conceptual/logical/physical data structures for
+  Finance, Payroll, and Clinical analytics.
+- Modernized legacy WhereScape RED warehouse into scalable cloud-aligned
+  architecture and integration patterns.
+- Led migration and simplification of critical data assets to improve
+  operational efficiency and analytics trust.
+- Worked with senior business stakeholders to prioritize delivery and
+  establish scalable self-service reporting capability.
+
+Abano Healthcare Group, Auckland, New Zealand
+
+Senior DBA | Sep 2021 - Nov 2022
+
+- Stabilized two enterprise data warehouses (Australian and New Zealand
+  business models), improving performance and reducing operational
+  costs.
+- Partnered with business stakeholders to design and evaluate platform
+  modernization toward a modern data analytics architecture.
+- Led integration enhancements for D365 Finance and Operations (FinOps)
+  and HR systems.
+
+Whanau Tahi Limited, Auckland, New Zealand
+
+Senior Database Administrator | Oct 2016 - Sep 2021
+
+- Primary DBA for New Zealand’s national e-Prescription platform
+  (mission-critical, enterprise-scale environment).
+- Led migration of 8 TB SQL Server from on-prem to Azure using
+  replication with minimal downtime.
+- Implemented partitioning and performance tuning strategies to improve
+  scalability and reliability.
+- Ensured strong controls for data reliability, security, and compliance
+  in a regulated domain.
+- Supported national-scale healthcare data platforms with focus on high
+  availability, resilience, and quality.
+- Contributed to data platform modernization and operational
+  architecture improvements.
+- Partnered with delivery teams to maintain consistent, secure, and
+  compliant data services.
+
+SimplHealth, Auckland, New Zealand
+
+Senior DBA | Mar 2013 - Nov 2016
+
+- Delivered database and integration support for complex healthcare data
+  programs.
+- Implemented data models, access controls, and privacy-aware data
+  handling practices.
+- Worked with streaming real-time e-Prescription data in HL7 format,
+  persisting records into relational data structures, reporting layers,
+  and Ministry of Health data extracts.
+- Worked with HL7 and external integrations to support end-to-end data
+  exchange requirements.
+
+Whangarei District Council, Whangarei, New Zealand
+
+Senior DBA | Sep 2007 - Mar 2013
+
+- Supported enterprise reporting and data foundations during major
+  council system implementations.
+- Primary data engineer for the migration ecosystem that moved legacy
+  Property and Rating data to the TechnologyOne platform.
+- Designed migration pipelines, data models, and reporting datasets
+  across finance, property, and asset domains.
+- Led data quality testing, user acceptance testing (UAT), and live
+  cutover activities for production go-live.
+- Collaborated with SMEs and business stakeholders across Finance,
+  Property/Rating, and Asset Management.
+
+Northland District Health Board, New Zealand
+
+DBA | 2003 - 2007
+
+- Modernized legacy Microsoft Access backend applications to a SQL
+  Server and .NET platform as a full-stack developer.
+- Led change data migration planning and execution from legacy systems
+  to the new platform.
+- Played a lead role in packaging District Health Board applications for
+  the Citrix environment as part of a major clinical application
+  modernization initiative.
+- Managed production live cutover activities to ensure continuity and
+  adoption during transition.
+
+Education
+
+MSc, Engineering - Georgian Technical University (First Class with
+Honors) A/L (Double Maths, Physics, Chemistry) - Ananda College
+
+Additional Information
+
+- Location: Melbourne, VIC (open to Sydney)
+- Work model: Hybrid / office-based roles
+- Target role: Enterprise Data Architect
+- Domains: Large-scale enterprise and regulated data environments
