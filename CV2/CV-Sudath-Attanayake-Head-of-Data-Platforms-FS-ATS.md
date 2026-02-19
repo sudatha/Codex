@@ -1,6 +1,6 @@
 ﻿Sudath Attanayake
 Melbourne, VIC, Australia | Open to Melbourne/Sydney hybrid roles
-LinkedIn: linkedin.com/in/sudath-attanayake | Email: sudatha@gmail.com | Phone: 0411040055
+LinkedIn: linkedin.com/in/sudath-attanayake | Email: sudatha@gmail.com | Phone: +61411040055
 
 Head of Data Platforms | Enterprise Data Platform and Analytics Leader
 
