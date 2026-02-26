@@ -1,0 +1,74 @@
+Senior Manager, Data & Integration
+Talenza - Melbourne | Permanent | Hybrid
+
+Talenza Melbourne is partnering with a well-established, mid-sized organisation to appoint their first Senior Manager, Data & Integration.
+
+This is a newly created, high-impact role and a genuine opportunity to build a Data function from the ground up. Reporting to the CIO and operating alongside the IT leadership team, you will take full ownership of enterprise data strategy, architecture, and analytics capability.
+
+This role will suit a passionate, hands-on data leader who enjoys building platforms, not just designing them.
+
+
+The Opportunity
+As the inaugural data hire, you will define the roadmap and personally deliver the foundational data environment. Your mandate is clear: assess the current landscape, uplift capability, and establish a scalable, governed, enterprise-grade data platform.
+
+
+Key Responsibilities
+Assess & Optimise the Current State
+
+Review the existing data landscape, reporting environment, and system integrations.
+
+Identify inefficiencies, duplication, and data quality risks.
+
+Deliver a clear, prioritised uplift roadmap focused on operational efficiency and business value.
+
+Build a New Enterprise Data Warehouse / Lakehouse
+
+Architect and implement a modern, scalable data warehouse or lakehouse (Azure-preferred).
+
+Design dimensional models aligned to operational and project reporting.
+
+Implement structured bronze, silver, and gold data layers with clear lifecycle controls.
+
+Maximise Value from Power BI
+
+Own and uplift an established Power BI environment (multiple workspaces and extensive DAX models).
+
+Improve governance, modelling standards, performance, and deployment processes.
+
+Enable trusted, scalable self-service analytics across the business.
+
+Strengthen Integration & Master Data Practices
+
+Establish Master Data Management (MDM) frameworks and governance standards.
+
+Design and maintain robust ETL/ELT pipelines across multiple core systems.
+
+Lead data workstreams for system implementations and migrations.
+
+
+About You
+You are a technically strong and commercially aware data professional who enjoys staying hands-on while setting strategic direction.
+
+You will bring:
+
+Demonstrable experience (ideally 8+ years) in data engineering, BI, or data management roles.
+
+Proven experience building enterprise data warehouses or lakehouses.
+
+Deep expertise in SQL and ETL/ELT development (ADF, SSIS or similar).
+
+Advanced Power BI capability (DAX, semantic models, deployment pipelines).
+
+Experience implementing Master Data Management principles.
+
+Strong stakeholder engagement skills and the ability to operate autonomously.
+
+
+Why Apply?
+First data hire - build the function your way.
+
+High visibility role reporting directly to the CIO.
+
+Genuine strategic impact with hands-on ownership.
+
+Hybrid working environment with a great culture.

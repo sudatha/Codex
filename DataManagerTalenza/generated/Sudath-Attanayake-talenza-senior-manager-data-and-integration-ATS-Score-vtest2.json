@@ -1,0 +1,88 @@
+﻿{
+    "cv_file":  "C:\\CV\\DataManagerTalenza\\generated\\Sudath-Attanayake-talenza-senior-manager-data-and-integration-ATS-CV-vtest2.md",
+    "jd_file":  "C:\\CV\\DataManagerTalenza\\JD.md",
+    "score":  100,
+    "max":  100,
+    "percent":  100,
+    "details":  [
+                    {
+                        "criterion":  "role title alignment",
+                        "weight":  8,
+                        "matched":  true,
+                        "hits":  2
+                    },
+                    {
+                        "criterion":  "enterprise data strategy",
+                        "weight":  7,
+                        "matched":  true,
+                        "hits":  2
+                    },
+                    {
+                        "criterion":  "current-state assessment",
+                        "weight":  6,
+                        "matched":  true,
+                        "hits":  2
+                    },
+                    {
+                        "criterion":  "uplift roadmap",
+                        "weight":  6,
+                        "matched":  true,
+                        "hits":  2
+                    },
+                    {
+                        "criterion":  "warehouse/lakehouse delivery",
+                        "weight":  10,
+                        "matched":  true,
+                        "hits":  6
+                    },
+                    {
+                        "criterion":  "azure platform capability",
+                        "weight":  10,
+                        "matched":  true,
+                        "hits":  4
+                    },
+                    {
+                        "criterion":  "dimensional modeling",
+                        "weight":  6,
+                        "matched":  true,
+                        "hits":  1
+                    },
+                    {
+                        "criterion":  "power bi advanced",
+                        "weight":  12,
+                        "matched":  true,
+                        "hits":  4
+                    },
+                    {
+                        "criterion":  "governance and quality",
+                        "weight":  8,
+                        "matched":  true,
+                        "hits":  5
+                    },
+                    {
+                        "criterion":  "master data management",
+                        "weight":  6,
+                        "matched":  true,
+                        "hits":  2
+                    },
+                    {
+                        "criterion":  "etl/elt and integration",
+                        "weight":  8,
+                        "matched":  true,
+                        "hits":  4
+                    },
+                    {
+                        "criterion":  "sql depth",
+                        "weight":  7,
+                        "matched":  true,
+                        "hits":  3
+                    },
+                    {
+                        "criterion":  "stakeholder leadership",
+                        "weight":  6,
+                        "matched":  true,
+                        "hits":  3
+                    }
+                ],
+    "note":  "This is an estimated ATS-style keyword/requirement alignment score."
+}

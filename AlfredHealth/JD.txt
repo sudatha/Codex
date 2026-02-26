@@ -1,0 +1,54 @@
+About the job
+Bayside Health
+
+Bayside Health is a public health service delivering high-quality care across every stage of life for close to 1.2 million people living in metropolitan Melbourne, the Mornington Peninsula, Koo Wee Rup, Bass Coast and Southern Gippsland. We have more than 15 main sites, including hospitals, centres and clinics that provide comprehensive care from welcoming newborns to supporting older people and a full range of services in between. More than 22,000 dedicated staff are focused on providing exceptional, equitable, and locally connected care through shared expertise, compassion, and a commitment to continuous growth. Education and training are central to staff development as we encourage all employees to strive and thrive. Bayside Health was formed following the merger of Alfred Health, Bass Coast Health, Gippsland Southern Health Service, Kooweerup Regional Health Service and Peninsula Health on 1 January 2026.
+
+Fixed Term – 12 months 
+Full-time: 76 hours per fortnight 
+Classification: Managers and Administrative Workers Grade 6 
+Location: Alfred Health 
+Staff benefits
+
+The Department
+
+The School of Public Health and Preventive Medicine is committed to our vision of Health and wellbeing for all people and communities. We are one of the largest schools of public health in the Asia Pacific region. Through generating and synthesising impactful evidence, supporting the strengthening of our health systems and informing and transforming policy and practice, we can help overcome the health challenges being faced across Australia and more broadly. The School is part of the Faculty of Medicine, Nursing and Health Sciences centred at the Alfred Hospital Campus with satellite units and partners embedded across other major Monash affiliated hospitals, research institutes and public health organisations.
+
+The Clinical Outcomes data Reporting and Research Program (CORRP) is a leading national research program that manages several high profile national clinical registries including the Australian Breast Device Registry (ABDR). The CORRP Program has expertise in clinical registry management, dataset development, registry reporting, qualitative and quantitative research, consumer engagement, and data and database management.
+
+The Australian Diabetes Clinical Quality Registry (ADCQR) is a national registry that is in its developmental stages with its foundations established from the Australian National Diabetes Audit (ANDA). The ADCQR aims to monitor the quality (appropriateness and effectiveness) of health care for patients with diabetes by routinely collecting and analysing clinical performance data
+
+The Role
+
+This role requires a multifunctional technical professional with demonstrated capability across backend systems, frontend development and advanced analytics and reporting. The role works collaboratively across multiple clinical quality registry teams within the School of Public Health and Preventive Medicine, including the Australian Diabetes Clinical Quality Registry (ADCQR) and the Australian Breast Device Registry (ABDR).
+
+Essential
+
+Skills and Experience
+
+A bachelor’s degree or higher qualification in Computer Science, Software Engineering, Data Science, Health Informatics, or a closely related technical discipline
+Demonstrated experience in the design, development, and maintenance of production data systems
+An equivalent combination of advanced technical experience and relevant professional training
+Strong experience in SQL and relational database design, optimisation, and management
+Experience setting up and managing server environments (on-premise or cloud
+
+Desirable
+
+Experience implementing reproducible and automated analytical workflows
+Experience in a health setting/managing sensitive data
+Data visualisation skills for clinical, operational, and research reporting
+
+Key Capabilities
+
+Demonstrated ability to provide senior technical leadership and advice across digital systems, data platforms, and dashboards in a research or registry environment.
+Strong capability in designing, developing, and maintaining data systems
+Demonstrated experience in developing and maintaining interactive dashboards or web-based analytical applications for clinical or operational users.
+
+Benefits Of Working With Us
+
+Salary Packaging
+Onsite Gym
+Child care services
+
+Please include your CV and a cover letter outlining your interest. Please provide a minimum of two referees. Applicants must have full Australian work rights.
+
+All enquiries to Ella Zomer via Ella.Zomer@monash.edu

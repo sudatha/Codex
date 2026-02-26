@@ -1,0 +1,30 @@
+Hiring: Data Architect | Melbourne | Long-Term Contract (6–12 Months) | Hybrid
+
+
+
+We are currently looking for an experienced Data Architect for a long-term contract opportunity based in Melbourne (hybrid work model).
+
+
+
+This is an exciting opportunity to someone who love to take ownership in driving architectural direction, governance, and documentation standards.
+
+
+
+What We’re Looking For:
+
+Strong core Data Architecture background (not Data Engineering-focused)
+Proven experience working in enterprise environments
+Excellent documentation and governance experience
+Ability to drive and lead architectural functions
+Strong stakeholder management skills
+Experience in Financial Services will be highly advantageous
+Comfortable working in a hybrid setup in Melbourne
+
+
+Key Responsibilities:
+
+Lead and drive the existing data architecture function
+Define and maintain enterprise data architecture frameworks
+Ensure high-quality documentation, standards, and governance
+Collaborate with business and technical stakeholders
+Provide architectural guidance across data platforms and initiatives

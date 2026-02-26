@@ -1,0 +1,44 @@
+﻿# Technical Lead - Data Engineering
+
+## The Role
+
+As Technical Lead - Data Engineering, you are accountable for providing hands-on technical leadership for a team of data engineers while remaining deeply engaged in solution design and delivery. You will guide the development, operation and continuous improvement of UniSuper's data platforms and integration solutions, ensuring they are robust, scalable and aligned with enterprise architecture and business outcomes.
+
+### You will be accountable for:
+
+- Providing technical leadership and day-to-day guidance to data engineers, building strong engineering practices and continuous learning
+- Translating business requirements and solution architecture into high-quality technical designs and implementations
+- Owning solution integrity (performance, reliability, supportability) across the full lifecycle
+- Contributing to platform evolution with focus on efficiency, reuse, scalability and security
+- Driving consistent engineering standards, CI/CD adoption and delivery improvements
+- Partnering across application, platform and integration teams for cohesive end-to-end outcomes
+
+## What You'll Do
+
+- Lead the design, development, testing and deployment of data solutions across Microsoft SQL Server and Azure
+- Be the technical escalation point for complex engineering tasks and production incidents
+- Ensure solutions meet NFRs (performance, availability, security and supportability)
+- Review designs and code for standards, quality and maintainability
+- Mentor and coach engineers across varying experience levels; uplift capability in modern tools and practices
+- Drive robust root cause analysis and deliver sustainable fixes to production data issues
+- Improve engineering discipline: documentation, testing, operational readiness and change management compliance
+- Embed cost-aware design, guiding cost optimisation and financial efficiency
+- Evolve CI/CD pipelines, automation and DevOps practices
+- Provide pragmatic data modelling guidance (fit-for-purpose, aligned to reporting/analytics needs)
+- Improve non-production testing/environment strategies (automated refresh/validation/data quality checks aligned to production changes)
+- Challenge ways of working to improve reliability, delivery speed and member outcomes
+
+## About You
+
+You are a hands-on technical leader who can set direction and uplift standards, while partnering effectively with stakeholders across Technology and the business. You can explain complex data and cloud concepts in a clear, practical way and build strong relationships across teams.
+
+## What You'll Bring
+
+- Strong hands-on experience designing, building and operating modern Azure data platforms
+- Proven experience with Azure Databricks (Spark engineering, notebooks, performance optimisation, production support)
+- Experience building scalable batch/streaming pipelines using cloud-native patterns (Databricks, ADF, event-based ingestion)
+- Strong Azure fundamentals: networking, identity, security, resource management and cost optimisation
+- Experience with cloud data lakes (e.g., ADLS Gen2) and open formats such as Delta Lake
+- Exposure to MLOps / ML engineering practices on Azure
+- Agile/DevOps experience including CI/CD, IaC and automated testing
+- A coaching mindset and a focus on pragmatic delivery and operational excellence

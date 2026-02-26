@@ -1,0 +1,41 @@
+About the job
+At PwC Australia, your expertise can shape better outcomes for communities, businesses, and the people who rely on them. Our Data & AI team is expanding and we're looking for an experienced Solutions Architect to design and deliver innovative data solutions that drive real business value. By joining PwC's Data & AI team, you will work at the intersection of business and technology, translating complex requirements into scalable, enterprise-grade data architectures. Working with clients across various industries, you will design end-to-end data solutions, guide technical implementation, and ensure our data platforms deliver measurable outcomes for our clients' most critical challenges.
+
+Why PwC?
+
+At PwC Australia, your skills meet purpose. We tackle big challenges across industries like finance, technology, energy, and health—giving you the chance to make a real impact. Here, your growth is our priority. You’ll work with leading teams, explore new technologies, and unlock your full potential.
+
+Join a global community of more than 370,000 people who value bold ideas, collaboration, and lasting change. Together, we’re building trust and shaping the future.
+
+What you’ll do:
+
+Design & Architect Data Solutions: Design comprehensive data architectures including data lakes, warehouses, lakehouse platforms, and real-time analytics systems that meet enterprise scalability, performance, and security requirements. Develop solution blueprints, technical designs, and architecture decision records that guide implementation teams and ensure alignment with client business objectives and technical standards.
+Drive Revenue & Delivery Impact: Drive end-to-end sales and delivery of high-value data solutions, from opportunity identification and client engagement through to implementation and expansion, owning both revenue targets and delivery profitability across a portfolio of enterprise clients. Oversee end-to-end delivery lifecycle including solution architecture, implementation roadmaps, sprint execution, quality assurance, and client acceptance across multiple concurrent data engagements.
+Stakeholder Engagement: Collaborate with client stakeholders to ensure solutions meet business needs. Bridge the gap between business requirements and technical implementation, translating complex data concepts for non-technical audiences and ensuring technical feasibility of proposed solutions.
+Drive Best Practices & Innovation: Establish data architecture standards, governance frameworks, and engineering best practices that ensure data quality, security, and maintainability. Stay current with emerging data technologies and methodologies, evaluating and incorporating tools and approaches that enhance our solution delivery capabilities and client outcomes.
+
+
+What we're looking for:
+
+Data Architecture Expertise: Strong experience designing and implementing enterprise data solutions including modern data platforms (Databricks, Snowflake, or equivalent), cloud data services (AWS, Azure, or GCP), and data integration patterns (batch, streaming, CDC). Hands-on experience with data modeling (dimensional, Data Vault, or data mesh), ETL/ELT pipelines, and data quality frameworks with demonstrated success in delivering production data systems.
+Technical Depth & Breadth: Solid understanding of data engineering technologies (Spark, SQL, Python), cloud-native data services, data governance tools, and CI/CD practices for data platforms. Familiarity with analytical and AI/ML workloads and their data platform requirements; ability to evaluate trade-offs between different architectural approaches and make sound technical decisions.
+Communication & Collaboration: Proven ability to communicate complex technical concepts to diverse audiences including executives, business stakeholders, and technical teams. Experience working in cross-functional teams, mentoring junior team members, and collaborating with architects, engineers, and consultants in fast-paced client environments. Strong problem-solving skills with ability to balance technical excellence with pragmatic, business-focused solutions.
+Leadership & Influence: Demonstrated ability to lead and inspire cross-functional teams, mentor talent, communicate technical concepts to non-technical executives, and navigate complex stakeholder environments in fast-paced, regulated industries. Experience balancing commercial objectives with delivery excellence and building high-performing data delivery practices.
+
+
+What you’ll gain:
+
+The opportunity to work with leading organisations and cutting-edge technology that challenge and expand your expertise.
+Flexibility means trusting you to choose when, where, and how you work—balancing what’s best for you, your team, and your clients to grow and thrive together.
+Clear paths for career progression supported by continuous learning and leadership development.
+Generous leave entitlements including four weeks’ annual leave and float public holidays to support your work-life balance.
+A world-class parental leave policy offering up to 26 weeks of leave for caregivers, supporting your family and personal life.
+
+
+We know that perks are as important as your financial rewards. Explore all the benefits that PwC has to offer here.
+
+Ready to grow here and go further? Join PwC Australia as a Director in Data & AI and make an impact that goes beyond the expected. Apply now and take your next step with a team shaping the future.
+
+We’re committed to treating all our job applicants fairly and with respect, irrespective of their actual or assumed background, disability, neurodivergence, or any other protected characteristic. We want you to have every opportunity to thrive in our selection process. In the application form, you can let us know what adjustments you require during our recruitment process and/or any workplace accommodations you anticipate needing to help you perform your role. 
+
+No Agencies Please: We kindly request that recruitment agencies do not submit CVs in response to this advertisement. We are only accepting applications direct from individuals.

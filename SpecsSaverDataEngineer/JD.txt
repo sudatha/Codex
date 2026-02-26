@@ -1,0 +1,46 @@
+What we can do for you
+
+At Specsavers, we know that to reach your full potential you need to work somewhere that will bring out your best. We pride ourselves on offering a workplace with a supportive, driven, flexible and inclusive culture.
+
+In 2025, we were proudly recognised as one of Australia’s Best Places to Work for the third consecutive year and ranked 12th on Fortune’s list of the World’s 25 Best Workplaces. Here’s a taste of just some of our perks:
+
+Quarterly bonus scheme
+
+Two free pairs of glasses each year
+
+On-site free parking
+
+Birthday, Volunteer, Professional Development and Paid Parental Leave
+
+Health & Wellbeing programs
+
+Fully funded social club – provides a wide range of activities throughout the year
+
+So, if you like the sound of working for a company that’s dedicated to improving the lives of both their people and customers - we think you’d look good at Specsavers. 
+
+The Role & Team
+
+
+As a Data Engineer within our ANZ Data team, you’ll play a key role in transforming business requirements into practical, data-driven solutions. You’ll be responsible for migrating and shaping data, building views that empower teams across the organisation, and ensuring data is accessible and valuable for decision-making.
+
+In this role, your primary focus will be on data integrity and security. You’ll lead the analysis, design, and development of tools and frameworks that support data transformation, migration, and other critical services. A key part of the role will involve supporting and migrating legacy data systems, which remain essential to our success. By creating repeatable, reliable processes, you’ll ensure our data solutions are robust, scalable, and aligned with business needs—making you an essential part of delivering high-quality outcomes.
+
+What we are looking for:
+
+You have extensive experience as a Data Engineer, with proven hands-on expertise in Azure Databricks, including advanced use of SQL and Python for data transformation and migration (essential).
+
+Proven ability to build strong cross-departmental relationships across the ANZ region, while leveraging business insight and technical expertise to provide strategic advice and deliver improved outcomes (essential)
+
+Strong technical ability with a solid understanding of big data platforms and their architecture. Proficient in data development tools and ETL processes.
+
+Exceptional communication skills, with the ability to explain technical and business processes in clear, simple language to stakeholders at all levels
+
+Relevant certifications in Azure Databricks or Azure Data Engineering is preferred
+
+About Us
+
+Specsavers are rated the market leader for eye tests, the retailer of choice for contact lenses and one of the fastest growing hearing providers in Australia and New Zealand. We are on a continual mission to transform eye and hearing health by eliminating preventable vision loss and blindness, including Glaucoma and Diabetes, through improved prevention and early detection, as well as providing accessible and affordable hearing care.
+
+At Specsavers we believe a diverse, inclusive, and flexible culture enables our people to bring their whole selves to work and be proud of doing so. When it comes to flexibility, we understand that one size doesn't fit all. Our flexible working at Specsavers enables us to work in ways that support our lifestyle to help us balance our career with the other important things in life.
+
+Creating a great place to work for our people is pinnacle to us and along with our Behaviours is at the core of everything we do. We like to think it’s a fun and positive place to work – why not have a look for yourself https://join.specsavers.com/au/department/support-office/
