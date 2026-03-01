@@ -1,0 +1,84 @@
+About us:
+
+Bapcor Ltd is the leading automotive aftermarket provider of accessories, equipment and service. We host one of the widest ranges of car parts in the world, with brands including Burson, Autobarn, Midas, Truckline, Premier Auto Trade and Baxters.
+
+We’re more than just automotive — we’re a dynamic, purpose-led organisation powered by people. Our Melbourne-based corporate team plays a critical role in shaping the strategy and success of the Bapcor Group.
+
+In joining our team, you’ll be welcomed into a supportive business that spans more than 1,000 locations with over 5,000 team members across Australia, New Zealand and Thailand. We are passionate about our team, with safety and inclusivity at the forefront of everything we do. We’re also passionate about our customers, products, and living our values of:
+
+Doing the right thing
+
+Being in it together
+
+Giving a damn
+
+Getting it done
+
+
+
+About the role
+
+Reporting directly to the CTO and member of the Technology Leadership Team, the Head of Business Intelligence will lead Bapcor’s enterprise data and analytics agenda. This is a role for a seasoned leader who thrives on simplifying complexity, driving transformation, and building strong, trusted partnerships across both technology and business.
+
+You will set the strategy, lead the team, uplift capability, and embed a customer‑centred, insight‑driven culture across all Bapcor business units. This includes Trade, Retail, Specialist Wholesale and our rapidly evolving commercial truck parts portfolio.
+
+Bapcor is on a journey to simplify and modernise its data landscape. This role is pivotal in refreshing and streamlining complex legacy data systems, establishing scalable data foundations, leveraging BI to unlock commercial and customer value and driving innovation through strategic vendor partnerships. The role is also expected to drive reporting innovation through AI.
+
+What You Will Lead & Deliver:
+
+ Set and drive Bapcor’s enterprise BI strategy and roadmap, ensuring alignment with business priorities and long‑term technology direction.
+
+Lead the design, development and optimisation of data platforms, including data pipelines, modelling, analytics products, dashboards and reporting.
+
+Oversee data governance, quality and standards, ensuring accuracy, accessibility, compliance and consistency across the organisation.
+
+Partner with executives, senior leaders and operational teams to translate business needs into actionable insights that drive performance and customer outcomes.
+
+Champion a data-driven culture across Bapcor, uplifting capability, enabling self‑service analytics and promoting data literacy across the enterprise.
+
+Simplify, modernise and transform legacy data systems, uplifting scalability, reliability and efficiency of the BI and analytics ecosystem.
+
+Provide strong leadership to the BI team and external partners, building capability, driving performance and delivering value through effective vendor and stakeholder management.
+
+Contribute as a senior member of the Technology Leadership Team, influencing enterprise technology strategy, investment and decision making.
+
+ 
+
+What You’ll Bring
+
+15+ years’ experience in IT, with deep expertise across Data Analytics, BI, Data Science, Program Delivery and IT Business Engagement in large, complex environments.
+
+Strong leadership capability, with a proven track record of building, coaching and developing high‑performing technical and analytical teams.
+
+Strategic thinker with enterprise mindset, able to define data and BI direction, simplify complexity and influence senior stakeholders and executives.
+
+Exceptional stakeholder and communication skills, able to translate technical concepts into clear business outcomes and engage confidently at all organisational levels.
+
+Proven experience modernising data platforms, with strong understanding of data governance, data quality, analytics tools, and (ideally) Azure Data Platforms.
+
+Commercial and financially astute, with strong understanding of accounting principles, budget management, vendor management and commercial negotiations.
+
+Highly effective problem solver and delivery leader, skilled in project management, prioritisation, navigating ambiguity, and executing in fast‑paced environments.
+
+Customer‑focused, results‑driven and adaptable, demonstrating resilience, attention to detail and the ability to learn, evolve and drive continuous improvement.
+
+Why join Bapcor?
+
+At Bapcor, we focus on what matters most for our customers, team members and the communities we serve. We go the extra mile to get the job done and always live our values.
+
+In joining our team, you can access:
+
+Diverse career opportunities within the Bapcor Group
+
+Discounts across Bapcor products and services, including our Retail and Trade brands
+
+Industry leading policies to support your work/ life balance (gender neutral parental leave, purchase leave, volunteer leave etc…)
+
+Paid birthday leave
+
+Wellbeing support
+
+Novated leasing and more
+
+We pride ourselves on our inclusive work environment, and encourage applications from people of all ages, cultures, gender identity, abilities and backgrounds, providing a recruitment experience that’s fair, free from bias and accessible. If you need to inquire about reasonable accommodation for the application process, please email careers@bapcor.com
+

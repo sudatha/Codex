@@ -1,0 +1,65 @@
+   Melbourne | Hybrid Work Model / Australian Citizen or PR 
+
+
+
+
+
+   Full-Time | Permanent Opportunity
+
+
+
+Join a mission-driven global team improving patient safety through smarter healthcare data.
+
+
+
+Our client is expanding their Implementation Services team and are currently hiring a Technical Data Archival Consultant based in Melbourne  to help deliver high-impact legacy data transition projects across Australia.
+
+
+
+Transforming care delivery around the world by enabling healthcare organisations to retain and manage critical legacy data securely and compliantly. We ensure safe, long-term access to historical records—helping providers focus on patient care without compromising on compliance.
+
+
+
+
+
+   What You'll Be Doing
+
+Perform analysis and discovery on legacy EHR, Patient Accounting, and ERP systems
+Collaborate with client stakeholders to understand legacy workflows and data requirements
+Extract, transform, and load data into our Azure-hosted archival platform
+Work closely with ETL and software engineers to support various data formats and workflows
+Ensure data integrity and accuracy through rigorous QA and data validation
+Manage support tickets independently and deliver outstanding customer service
+Help healthcare providers retain compliant, accessible records post-system transition
+✅ What We're Looking For
+
+Strong SQL skills (intermediate to advanced level)
+Excellent communication - both written and verbal
+Strong analytical and troubleshooting abilities
+Self-starter with a passion for solving complex technical problems
+Ability to work independently and manage priorities
+✅Desirable 
+
+Familiarity with clinical EHRs, patient financial systems, and non-patient systems (e.g. HR, Payroll, GL, AP, MMIS)
+Why Join?
+
+Be part of a global mission to improve healthcare safety
+Work with cutting-edge cloud-based data archiving technology
+Supportive, respectful, and collaborative team culture
+Opportunities for growth and advancement in a high-demand field
+Hybrid working environment with flexibility
+Open to junior to senior applications from fresh grads from relevant degree to 1-5 years experience summerise
+Be part of something meaningful.
+
+
+
+Apply now to help healthcare organisations retain access to critical historical data while they move forward with innovation.
+
+
+
+Our client is an equal opportunity employer, and employment decisions are made without regard to race, colour, religion, age, gender, national origin, disability, handicap, marital status or any other status or condition
+
+
+
+This role is exclusive to Dynamo!
+

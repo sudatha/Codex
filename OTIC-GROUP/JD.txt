@@ -1,0 +1,33 @@
+About the job
+“Otic” means smart people doing smart work, together.
+
+We are a wholly owned Australian company committed to helping our clients design and build intelligent software solutions that unlock value in their business.
+
+Otic Group was formed to provide talented technology professionals an opportunity to work with not only some of the most prominent companies in Australia, but work with incredibly talented peers in an exciting, dynamic young environment.
+
+We provide highly skilled expertise in Data & Analytics, Cloud Strategy, Application Modernisation, and Cybersecurity.
+
+We’re looking for a highly experienced Senior Data Engineer to deliver robust data solutions across Azure and AWS cloud platforms. You’ll lead migration projects, modernise legacy data environments, and build scalable Lakehouse architectures using Databricks and Delta Lake. This role blends hands-on engineering with architecture, mentoring, and stakeholder engagement across financial services, health, and enterprise environments.
+
+Key Responsibilities
+
+Lead on-prem to cloud migration projects, including reverse engineering and mapping of legacy SQL, SSIS/SSRS, and stored procedures.
+Design, build, and manage scalable batch and streaming data pipelines using Databricks, Spark, and Delta Lake.
+Build and optimise ETL/ELT workflows across Azure (ADF, Data Lake, Synapse) and AWS (S3, Redshift, Glue, Lambda).
+Implement best practices for data governance, quality, lineage, and security using Unity Catalog and medallion architecture.
+Collaborate with cross-functional teams to deliver high-quality, trusted datasets for analytics, reporting, and API consumption.
+Support automation, CI/CD integration, and performance tuning of cloud data platforms.
+Document architecture, establish migration strategies, and communicate progress and ROI to technical and executive stakeholders.
+Mentor and guide junior engineers and contribute to a high-performing, delivery-focused team.
+
+Skills & Experience
+
+5+ years of experience in data engineering or similar roles.
+Proficiency in SQL and Python (or Scala/Java), with strong Spark experience.
+Demonstrated delivery of Azure Databricks Lakehouse solutions at scale.
+Solid knowledge of AWS and Azure data services, including ADF, Synapse, S3, Redshift, Glue, Lambda.
+Experience with data modelling, orchestration, DevOps, and CI/CD.
+Strong communication skills with the ability to present findings and architectural decisions clearly.
+Certifications in AWS and/or Azure are highly regarded.
+
+Over and above having these technical skills, you will also have a strong passion and flair for creating professional prototypes and dashboards.
