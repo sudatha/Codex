@@ -1,0 +1,19 @@
+Data, Analytics & Insights Consultant required to gather, define and lead the design of data and reporting solutions for a well-known financial services business.
+
+Responsibilities:
+partner with business leaders to gather data and reporting requirements, and to design and deliver insightful and actionable visualisation solutions
+liasie with data governance and engineering teams to ensure data solutions are scalable
+act as an SME in selecting and implementing relevant data and business modelling techniques
+implement and drive adoption of data management procedures
+lead implementation of advanced analytical solutions
+What you'll need:
+extensive data analytics background, with strong business intelligence and visualisation skills
+previous experience working in transformation or change management environment, with expertise in gathering, defining and translating business requirements into analytical solutions
+strong background working with Databricks and Power BI
+any financial services experience would be hugely beneficial
+Click on the 'Apply' button or email your resume to sahuja@fourquarters.com.au
+Employer questions
+Your application will include the following questions:
+Which of the following statements best describes your right to work in Australia?
+How many years' experience do you have as a Data and Analytics Consultant?
+What's your expected annual base salary?

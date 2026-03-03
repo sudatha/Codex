@@ -1,0 +1,68 @@
+ 
+
+Our clients are a well respected Government Agency which consistently tops employee satisfaction surveys. They are an independent and vital part of Victoria’ changing future establishing stability and future opportunity.  
+
+ 
+
+We’re seeking a contract Senior BI Developer / Power BI Specialist to Deliver migration-focused Reporting across a live Legacy to Azure Platform Transition. The work is hands-on: Building and enhancing Dashboards, shaping Data, and ensuring Stakeholders have clear, trusted Reporting on progress, outcomes, and Operational performance.
+
+This role is highly Stakeholder-facing – 100% Verbal and written communication, engagement, and presentation skills are critical.
+
+ 
+
+Key Responsibilities
+
+·         Design and Deliver Power BI Dashboards and Reporting to Support Migration and Operational Reporting needs
+
+·         Lead requirements workshops and Translate Business needs into clear metrics, measures and visuals
+
+·         Build and Maintain Data models (semantic models), DAX measures, and Power BI visuals that drive decision-making
+
+·         Produce and Maintain “single source of truth” Reporting, including KPI definitions and consistent measurement
+
+·         Work closely with Data/Technical teams to validate sources, reconcile results, and improve Data quality
+
+·         Present Dashboards and insights to Stakeholders; explain assumptions, Data limitations, and recommendations
+
+·         Support continuous improvement across Reporting standards, usability, and performance
+
+
+Required Skills and Experiences
+
+·         Proven senior experience Delivering Power BI Solutions end-to-end (requirements → build → publish → iterate)
+
+·         Strong SQL / SQL Server capability (T-SQL, querying, joins, shaping Data for Reporting)
+
+·         Strong experience with Data modelling and Reporting best practices (performance, governance, usability)
+
+·         Excellent Stakeholder engagement: able to influence, challenge constructively, and bring people along
+
+·         Confident presenter who can “talk to the content” and communicate clearly with senior Stakeholders
+
+
+Nice to Have (not mandatory, but preferenced)
+
+·         Australian Public Service / Victorian Public Service / Consulting company experience
+
+·         Migration / Transformation Program Reporting exposure
+
+·         Data Transformation experience (Power Query / Data cleansing / modelling)
+
+·         Exposure to documentation / design inputs (e.g., Synops, Axure) feeding Reporting requirements
+
+
+Personal Attributes
+
+·         Delivery-focused, proactive, and accountable (“gets it done”)
+
+·         Friendly, personable, open, sharing and team focussed
+
+·         Strong judgement around metrics and measurement
+
+·         Comfortable in ambiguity and fast-moving environments
+
+ 
+
+If you have a combination of these Skills and are looking for a very stable department and offering an excellent rate and welcoming culture, please send your résumé today (resume@interfacerecruitment.com.au), or talk to Jeremy King 03 9426 4888. If not and you have other quality, in demand, skills send us your resume and we'll see if we can find something else for you.
+
+ 

@@ -1,0 +1,34 @@
+About the job
+This is the role for someone who likes turning messy reality into clean, testable truth. You’ll make sure migrations land properly by producing mapping and validation that’s precise, evidence-led and audit-ready — not “close enough”.
+
+Own mapping specs and rulebooks that are testable, controlled and evidence-ready! 
+Turn data quality findings into concrete validation rules and exception handling! 
+Build the artefacts and checks that make cutovers predictable and approvals faster! 
+
+Our people are customer obsessed. They prioritise the needs and satisfaction of the customer above all else. Our mindset fosters innovation and creates strong, lasting customer relationships as we strive to be the most customer centric company in Australia and New Zealand.
+
+In the role of Consultant — Data Mapping & Validation you will join our Customer Migration team that’s doubling down on customer obsession.
+
+Each day, you’ll go above and beyond to: 
+
+Profile source data, document structures and define mapping rules (including edge cases) 
+Define validations/reconciliations and support SIT/UAT with defect triage 
+Produce pre/post-load evidence artefacts and feed runbook steps and readiness gates 
+Maintain mapping accuracy and artefact quality under time pressure 
+
+We’re looking for the best and brightest to deliver the best for our customers. You’ll need: 
+
+Strong BA/data analysis fundamentals; disciplined documentation 
+Comfort with validations/reconciliations, exception flows and test support 
+Ability to work with architects/engineers/product to resolve edge cases quickly 
+A bias for evidence quality and audit cleanliness (not just “getting it done”) 
+
+A diverse and inclusive workplace works better for everyone 
+
+We know that our people make us who we are. That's why we have built a culture of equity and respect – where everyone feels valued and appreciated for being their authentic selves. In partnership with our multiple Employee Resource Groups (ERGs) we continue to foster an inclusive environment, where all NAB colleagues’ unique backgrounds and identities are understood, respected and celebrated. We are committed to providing an environment where you can work your way.
+
+For details on the recruitment process, and accessibility, please visit www.nab.com.au/about-us/careers/apply-for-job . To discuss adjustment requirements, please contact the NAB Careers team, via nab.careers@nab.com.au (please reference job number) or visit our Careers page through the link above for other contact options.
+
+Join NAB 
+
+If you think this role is the right fit for you, we would love to hear from you. Please note candidate screening and interviews may be conducted prior to the closing date of the job advert. Unsolicited CVs from agencies will not be accepted.

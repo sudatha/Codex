@@ -1,0 +1,61 @@
+An excellent opportunity is available for a Data and AI Manager to join the Information Technology Department at Australia's pre-eminent biomedical research institute.
+
+About the Position
+The Data and AI Manager is a newly established role responsible for designing, implementing and scaling the organisation's enterprise data and artificial intelligence capabilities. This role will lead the development of a fit-for-purpose data environment, shape data governance practices, and identify opportunities to embed responsible AI into business and research operations.
+
+The Data and AI Manager will be both strategic and hands-on, working across the organisation to uplift data maturity, develop foundational infrastructure and processes, and ensure safe and ethical use of data and AI technologies. The role will also provide strategic advice to the Executive and Senior Leaders on data governance and management best practices.
+
+Key responsibilities
+
+Develop and implement an enterprise data strategy aligned with organisational priorities and regulatory requirements.
+Establish data governance policies and frameworks including data ownership, data quality standards, and lifecycle management.
+Design and implement a scalable data environment to support business intelligence, analytics, agentic and other forms of AI.
+Identify and lead the implementation of AI and machine learning initiatives that solve business problems or enhance decision-making.
+Develop and manage project plans for data and AI initiatives, including change management and training.
+Establish and promote responsible AI principles, aligned with industry best practice and ethical standards.
+Ensure compliance with relevant data and AI-related laws and frameworks (e.g. Australian Privacy Act, ISO standards, AI governance principles).
+Selection Criteria
+Personal qualities:
+
+Ability to maintain high integrity and confidentiality.
+Demonstrated ability to collaborate and work effectively in teams or committees across the organisation to achieve shared goals.
+Strong attention to detail and effective time management skills, including the ability to prioritise workload and distinguish between what is critical and what is not.
+Exceptional oral, written and interpersonal skills, including the ability to build and manage relationships with a broad range of stakeholders, together with the aptitude to interact with both technical and non-technical groups.
+Proven experience in planning and delivering outcomes for complex programs, services, and projects.
+Proven ability to lead change and innovation, fostering adaptability and a culture of continuous improvement.
+Knowledge and skills:
+
+Tertiary qualifications in Information Systems, Engineering, Computer Science, Data Science, or other relevant field.
+Demonstrated experience leading data or AI initiatives in complex organisations.
+Experience embedding data governance, data architecture, and data platform technologies in a complex organisation.
+Practical knowledge of AI/ML tools, techniques, and frameworks, including building and utilising AI models and integrating them into business workflows.
+Experience in the research, medical, tertiary education or government sectors would be highly regarded.
+Familiarity with ethical frameworks for AI (e.g. OECD, EU AI Act, Australian AI Ethics Principles).
+Exposure to data privacy, security and compliance requirements (e.g. ISO 27001, NIST, GDPR).
+Experience working with executive and senior stakeholders to uplift organisational maturity in data governance and management.
+Terms of Appointment
+This position is ongoing in a full time capacity. Salary is Professional Services Employee (PSE) Level 10 ($171,493 - $185,628). Very attractive salary packaging options are available for general living expenses, meal entertainment, novated leasing and more. 12% superannuation payable, plus up to a further 5% after the first 6 months of service via our matching superannuation scheme.
+
+General enquiries can be directed to Michael Carolan - michael@wehi.edu.au
+A position description is available here.
+
+How to Apply
+Please apply by uploading your CV, cover letter and a document addressing the key selection criteria in pdf format.
+
+Application Closing Date: Sunday 22 March 2026
+
+WEHI - Brighter together
+
+WEHI is where the world's brightest minds collaborate and innovate to make discoveries that will help us to live healthier for longer. Our medical researchers have been serving the community for more than 100 years. We bring together people with different skills and experience who are committed to long-term discovery. Our teams of researchers are committed to solving the most complex health problems, making transformative discoveries for cancer, infectious and immune diseases, developmental disorders and healthy ageing.
+
+WEHI is a place where people are able to shine. People who are inquisitive, who are committed, who are passionate. People who want to make a difference. And we are committed to ensuring they have the tools to flourish, personally and professionally. We are a community of researchers, students and professional service staff who work towards achieving discoveries that improve human health. We are driven by collaboration, curiosity and creativity. We are committed to making a positive difference to the lives of people in Australia and around the world. We are WEHI. We are brighter together.
+
+WEHI's commitment to diversity and inclusion
+
+At WEHI we strive to foster a flexible working environment that encourages individual differences and promotes collaboration and creativity. We recognise that talent does not sit within a single identifiable group in our society and that WEHI's ability to shape contemporary scientific thinking and deliver leading professional services relies on a diversity of thought within our organisation. Our action to promote gender equality has been recognised with an Athena SWAN Bronze Award from Science in Australia Gender Equity (SAGE) and we offer a range of support for women researchers.
+
+Our commitment to celebrating diversity and addressing inequities is further demonstrated through our Diversity and Inclusion Strategy, Gender Action Plan, Reconciliation Action Plan and our WE-Pride network for LGBTQIA+ staff and students. We actively encourage applications from, people with a disability, culturally, religiously and linguistically diverse people and people with diverse genders and sexualities. Should you require support during the recruitment process due to special needs or consideration, please contact the People and Culture team.
+
+WEHI's commitment to Indigenous employment
+
+WEHI is working to create a future where Aboriginal and Torres Strait Islander peoples will be engaged at the scientific frontier, making exciting discoveries and decisions about the future of health in this country, and part of a leading professional services workforce supporting the realisation of these discoveries. We are committed to creating a culturally safe workplace and offering career development and leadership opportunities to First Nations staff and students. We strongly encourage any Aboriginal and Torres Strait Islander peoples to apply.

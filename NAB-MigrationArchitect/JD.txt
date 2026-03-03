@@ -1,0 +1,31 @@
+About the job
+If you like making complex change feel safe, simple and repeatable — this is the role. Here at NAB in the Customer Migration Team you’ll design the standards and guardrails that stop migrations becoming bespoke one-offs, so every wave runs predictably, is evidence-led, and stands up to scrutiny.
+
+Join our Customer Migration Team at NAB and build the control standards that make migration events safe and repeatable (validation, reconciliation, lineage, exceptions)!
+Turn complex integration and non-functional decisions into clear guardrails teams can execute!
+Bake traceability and auditability into designs so approvals are faster and evidence is clean!
+
+Our people are customer obsessed. They prioritise the needs and satisfaction of the customer above all else. Our mindset fosters innovation and creates strong, lasting customer relationships as we strive to be the most customer centric company in Australia and New Zealand.
+
+In the role of Migration Architect / Solution Designer you will join our Customer Migration (Enterprise Simplification) team that’s doubling down on customer obsession.
+
+Each day, you’ll go above and beyond to:
+
+Set standards for validations, reconciliations, lineage and exception flows 
+Make integration and non-functional guardrail decisions across orchestration, pipelines and reporting 
+Codify rollback patterns and enable dry-run / rehearsal 
+Maintain a reusable pattern library and run design reviews 
+Maintain traceability from design decision → runbook step → evidence artefact 
+
+We’re looking for the best and brightest to deliver the best for our customers. You’ll need:
+
+You will come from either a solution design or solution architecture role, with extensive solution architecture experience in regulated environments (financial services preferred) 
+Practical control engineering mindset — designs that are testable and auditable 
+Experience translating architecture into runbooks, gates and evidence 
+Ability to align Risk/Legal/Tech quickly on “safe to proceed” ]
+
+A diverse and inclusive workplace works better for everyone 
+
+We know that our people make us who we are. That's why we have built a culture of equity and respect – where everyone feels valued and appreciated for being their authentic selves. In partnership with our multiple Employee Resource Groups (ERGs) we continue to foster an inclusive environment, where all NAB colleagues’ unique backgrounds and identities are understood, respected and celebrated. We are committed to providing an environment where you can work your way.
+
+For details on the recruitment process, and accessibility, please visit www.nab.com.au/about-us/careers/apply-for-job . To discuss adjustment requirements, please contact the NAB Careers team, via nab.careers@nab.com.au (please reference job number) or visit our Careers page through the link above for other contact options.

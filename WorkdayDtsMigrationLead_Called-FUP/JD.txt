@@ -1,0 +1,17 @@
+Data Migration Lead required to define and lead the execution of a data strategy for a major Workday implementaion for a leading financial services business.
+
+Responsibilities:
+lead the architectural design to ensure data is integrated between Workday and various enterprise systems
+design and implement data migration strategy
+create data models to support Workday modules, analytics and reporting requirements
+lead the cleanse, extraction and transfer of data between systems
+Requirements:
+extensive experience leading data migration projects 
+strong SQL skills
+previous experience working with Workday
+solid financial services background
+Click on the 'Apply' button or send your resume to sahuja@fourquarters.com.au
+Employer questions
+Your application will include the following questions:
+How many years' experience do you have as a Data Migration Lead?
+Do you have experience working with Workday?

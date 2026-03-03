@@ -1,0 +1,27 @@
+﻿# Senior Data Engineer
+
+## Overview
+Our client is investing heavily in digital capability and is looking for a Senior Data Engineer who can design and deliver scalable data solutions. This role suits a hands-on engineer who has started contributing to architecture and wants to step up while still writing code and building pipelines.
+
+## What You'll Do
+- Build and optimise data pipelines, integrations, and workflows.
+- Contribute to platform and architecture decisions.
+- Model and transform data for analytics and reporting.
+- Develop API integrations (MuleSoft experience valued).
+- Ensure data quality, performance, and reliability.
+
+## What You Bring
+- Strong hands-on Data Engineering experience.
+- Proven pipeline, integration, and modelling capability.
+- Exposure to architecture or solution design.
+- Strong SQL and problem-solving skills.
+- Practical, delivery-focused mindset.
+
+## Why Apply
+- Step into architecture while staying hands-on.
+- Work on a modern, scalable data environment.
+- High-impact role in a fast-growing organisation.
+- Permanent opportunity.
+
+## Contact
+For more information or a confidential discussion, email: sam@cloudappsconsulting.com.au
