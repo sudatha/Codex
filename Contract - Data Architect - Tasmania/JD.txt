@@ -1,0 +1,25 @@
+I came across your profile and wanted to reach out regarding a role I’m currently recruiting for. If it’s not the right fit for you, I’d really appreciate a share with your network or any referrals.
+
+I’m supporting a Health Department within the Government, on a Senior Data Architect requirement, working within a Digital Health Transformation Program.
+
+Contract details:
+ • rolling contract (ASAP start)
+ • Full remote flexibility
+ • Day rate negotiable
+
+This role will lead enterprise data architecture design across clinical, financial, and operational domains, ensuring health data is standardised, interoperable, secure, and accessible statewide.
+
+You’d be responsible for defining scalable data models, governance frameworks, migration patterns, and enterprise data blueprints across cloud and on-prem platforms.
+
+Key experience sought:
+ • designing enterprise-scale data architectures
+ • Strong healthcare data modelling 
+ • Large-scale data warehouse/lake design (incl. medallion architecture, star/snowflake schemas)
+ • Microsoft Azure & Fabric expertise
+ • Data governance, metadata management, and privacy compliance
+ • Secure data exchange protocols (OAuth2, SAML, TLS)
+
+If this aligns with your background, feel free to send your CV and let me know a suitable time for a quick conversation.
+
+Kaio Desouza
+Data / Analytics / AI - Principal Consultant
