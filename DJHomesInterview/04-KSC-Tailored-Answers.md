@@ -1,0 +1,71 @@
+# Tailored Key Selection Criteria Answers
+
+These answers are tailored to the `Senior Manager, Data & Integration` role using evidence from `PD.md` and Sudath Attanayake's CV materials.
+
+## 1. Master Data Management Strategy & Implementation
+
+At Abano Healthcare Group, one of the recurring challenges was that critical entities were being used across a large integration and analytics estate without enough consistency in ownership, definitions, and downstream reporting logic. As the Data and Analytics Architect, I took ownership of the architecture direction for an environment spanning more than 250 endpoints, and part of that work was to strengthen how core data domains were governed and standardised.
+
+Endpoint systems had different dental software that had different logical & physical data structures. Event with the same software different codes were used in the legacy implementations. Key master data issue was in correct & not adequate field mapping which led to inconsistent calculation of measures in upstream. Introduced very strong mapping strategy to get the data to unified structure. 
+
+My approach was to start with the business-critical domains first rather than trying to govern everything at once. I worked with stakeholders across finance, operations, payroll, and reporting teams to clarify which data entities needed common definitions, who should own them, and where quality controls had to be applied. From a delivery perspective, I introduced conformed structures in the reporting and analytics layer, aligned transformation rules across ETL and ELT processes, and established clearer metadata, lineage, and stewardship practices so the business could understand where data came from and how it was being used.
+
+The improvement was practical and measurable in operational terms: better consistency in cross-domain reporting, reduced reconciliation effort between systems, and faster issue triage because ownership and lineage were clearer. What is relevant to DJ Homes is that I would apply the same staged MDM approach to core entities such as customer, property, supplier, project, and product data across systems like Timberline, ClickHome, Salesforce, and other operational platforms, with governance embedded into delivery rather than treated as a separate theory exercise.
+
+## 2. Data Warehouse / Lakehouse Design & Delivery
+
+The strongest example is my work across Attekus and Abano, where I was responsible for modernising fragmented analytics environments into more scalable and governed platforms. At Attekus, I led data platform strategy using Microsoft Fabric and implemented medallion architecture patterns. At Abano, I designed the target-state architecture to modernise two legacy data warehouses and create a more robust platform for enterprise reporting and analytics.
+
+From a modelling perspective, I use a layered architecture because it supports both control and scale. Bronze handles raw ingestion and traceability, silver is where data is standardised, cleansed, and aligned to enterprise rules, and gold is where business-ready dimensional models are prepared for reporting and analytics consumption. I use conceptual, logical, and physical modelling depending on the audience and the design stage, and for reporting I favour dimensional structures with conformed dimensions because they support consistent executive and operational reporting.
+
+To ensure scalability and performance, I separate ingestion and serving workloads, use incremental load patterns where appropriate, and design for maintainability rather than one-off pipelines. To ensure quality, I put validation rules between layers, control promotion into curated models, and align semantic models in Power BI to the governed data products. This is directly relevant to DJ Homes because the role requires a hands-on leader who can both design and build a modern warehouse or lakehouse, not just recommend one.
+
+## 3. ETL/ELT and Data Pipeline Engineering
+
+I have designed and supported ETL and ELT pipelines in integration-heavy environments across healthcare, local government, and enterprise analytics platforms. A representative example is the architecture and delivery work I led at Abano, where multiple business domains and more than 250 endpoints had to be integrated into a coherent reporting and analytics capability. Another strong example is Whanau Tahi, where I led the migration of an 8 TB SQL Server environment to Azure with staged cutover and minimal downtime.
+
+My engineering approach is to keep pipelines modular and operationally reliable. I typically separate extraction, schema alignment, business transformation, validation, and publish stages so each step is easier to test, monitor, and recover. I use SQL-based transformations heavily, align orchestration patterns to ADF or SSIS-style delivery where appropriate, and design restart-safe loads so reprocessing is controlled rather than manual. I also put monitoring around freshness, failures, and data quality exceptions, with clear runbook-style support processes for operational teams.
+
+The result has been more reliable refresh cycles, better supportability, and lower risk during change or migration events. For DJ Homes, that matters because the data environment will need both batch and potentially near-real-time data flows across several operational systems, and the pipelines need to be scalable, traceable, and supportable from day one.
+
+## 4. Data Integration Across Core Business Systems
+
+The best example is Abano Healthcare Group, where I owned architecture direction for an enterprise environment with over 250 endpoints across finance, payroll, and operational systems. The challenge in that setting was not only technical integration, but also reducing duplication, improving supportability, and making sure reporting and analytics had a consistent foundation across disparate source systems.
+
+My approach was to choose integration patterns based on business need rather than forcing one pattern everywhere. Where operational interaction required responsiveness, I supported API-led integration patterns. Where the use case was analytical consolidation, I used scheduled ETL and ELT patterns. In other environments, such as SimplHealth, I also worked with HL7-based real-time data flows, which reinforced the importance of handling different latency and data quality requirements properly. I standardised interface expectations, aligned source-specific data into reusable downstream structures, and made documentation and lineage part of the design process so integrations would be maintainable over time.
+
+The outcome was a more coherent integration landscape and improved trust in downstream reporting. For DJ Homes, I would bring the same pattern-led approach to integrating systems such as Timberline, ClickHome, Salesforce, WMS or BuilderMT, OnBase, and other operational platforms, so the organisation is not left with brittle point-to-point fixes.
+
+## 5. Development of an Enterprise Data Strategy
+
+I have developed and delivered data strategy in environments where the organisation needed both a roadmap and hands-on execution. At Attekus, I led data platform, integration, and reporting architecture direction in a practical delivery environment. At Abano, I defined the target-state architecture and roadmap for platform modernisation, integration uplift, and reporting enablement across a large and complex enterprise footprint.
+
+My approach is based on four pillars: governance, architecture, integration, and analytics value. I begin with a current-state assessment of systems, data quality risks, duplicated reporting logic, integration pain points, and capability gaps. From there I define the target state, sequence the roadmap by business value and delivery risk, and establish guardrails around standards, quality controls, ownership, and release discipline. I then socialise that strategy with executives and domain stakeholders in plain business language so there is visible alignment between technical investment and business outcomes.
+
+The outcome of this approach has been clearer platform direction, better prioritisation, and practical modernisation rather than isolated technical fixes. That is highly relevant to DJ Homes because this role is effectively the first data leadership hire, and success will depend on creating a roadmap the CIO and business leaders can trust while still delivering foundational capability quickly.
+
+## 6. Power BI Enterprise Capability & Semantic Model Management
+
+I have strong hands-on experience uplifting enterprise Power BI environments, particularly at Attekus and Abano. In both settings, the challenge was not simply report development; it was establishing a Power BI capability that could scale without creating duplicated logic, inconsistent definitions, or performance issues.
+
+My approach is to treat semantic models as enterprise assets. I implement modelling standards, reusable measures, naming conventions, and clearer workspace governance so reports are built on trusted shared datasets rather than disconnected report-level logic. I have worked directly on DAX optimisation, semantic model design, and deployment pipeline improvements, and I focus on reducing ambiguity in relationships, controlling promotion between environments, and separating governed enterprise reporting from ad hoc analysis.
+
+The benefit is improved report performance, stronger consistency across dashboards, and safer self-service analytics. For DJ Homes, that means preserving the existing investment in Power BI while lifting governance, model quality, deployment discipline, and business trust in the reporting layer.
+
+## 7. Data Governance, Quality, and Metadata Management
+
+My view is that governance only works when it is built into delivery processes. Across my architecture and platform roles, particularly at Abano and Attekus, I have established governance guardrails covering standards, metadata, lineage, and data quality controls, rather than treating governance as a document-only exercise.
+
+In practice, that means defining ownership by domain, making metadata and lineage visible through design and delivery artefacts, and embedding validation checks into ingestion and transformation pipelines. I have used Microsoft-aligned governance practices, including Purview-oriented metadata and lineage controls, to improve traceability and support more reliable reporting outcomes. I also focus on practical quality measures such as validity, completeness, duplication, and exception handling because those are the controls the business feels directly.
+
+The outcome is better traceability, stronger compliance posture, and quicker resolution of data defects because teams know where the issue originated and who owns the fix. For DJ Homes, I would phase this work, starting with the highest-value data domains and most critical reports, then expanding governance coverage as the platform matures.
+
+## 8. Leadership Capability and First 30/60/90 Days
+
+My leadership style is hands-on, transparent, and delivery-focused. I am comfortable operating as an individual contributor while setting strategic direction, which is important in a first-hire role like this one. Success for me is not just producing an architecture document; it is establishing trust in the data, confidence in the roadmap, and a repeatable operating model that the business can scale.
+
+In the first 30 days, I would focus on discovery and alignment. That means understanding the current system landscape, data flows, reporting pain points, integration dependencies, and the highest-risk data quality issues. I would meet with the CIO, IT Manager, and business stakeholders to confirm the most important use cases, critical reports, and near-term risks.
+
+By 60 days, I would publish a target-state architecture and a phased uplift roadmap covering warehouse or lakehouse design, MDM priorities, governance controls, integration patterns, and Power BI improvements. I would also aim to deliver some early wins, such as improving one or two high-visibility reporting or reconciliation pain points to build momentum and credibility.
+
+By 90 days, success would look like agreed governance rhythms, initial curated data assets or pipelines for priority domains, stronger Power BI standards, and a clear implementation plan for scaling the broader data and integration capability. In practical terms, success would mean reduced manual reconciliation, better trust in key reports, clearer ownership of critical data, and visible executive confidence that the data function is moving in the right direction.

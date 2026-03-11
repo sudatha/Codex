@@ -1,0 +1,60 @@
+We are looking for a Power BI specialist who can operate at a senior consulting level, not just build reports.
+
+Responsibilities
+Design and build enterprise Power BI dashboards supporting network performance and operational analytics
+
+Develop robust semantic data models using existing Enterprise Data Platform datasets (Databricks)
+
+Build automated reporting and monitoring dashboards for operational thresholds
+
+Translate stakeholder requirements into clear reporting specifications and visualisations
+
+Produce report wireframes, design artefacts, and technical documentation
+
+Ensure data accuracy, model performance, and governance compliance
+
+Collaborate with enterprise architects and data platform teams
+
+Contribute analytics input to future phases of the transformation program
+
+Essential Skills
+7+ years experience in Data & Analytics / Business Intelligence roles
+
+Advanced Power BI development and semantic modelling expertise
+
+Minimum 5+ years of dedicated Power BI development experience is required
+
+Deep DAX and data modelling capability
+
+Experience building enterprise analytics dashboards
+
+Experience working with modern data platforms (Databricks, lakehouse or enterprise data warehouse environments)
+
+Strong stakeholder engagement and consulting capability
+
+Experience translating business requirements into analytics solutions
+
+Demonstrated ability delivering reporting within structured governance environmentsHighly Desirable
+
+Experience working within utilities, infrastructure, or regulated industries
+
+Experience with operational analytics or compliance reporting
+
+Exposure to distributed energy, smart meter data, or network monitoring analytics
+
+Experience building data quality monitoring dashboards
+
+Experience working with large-scale enterprise data platforms
+
+Personal Attributes
+We are looking for someone who is:
+
+Power BI expert
+
+Able to work autonomously in a consulting environment
+
+Comfortable engaging with architects, engineers, and senior stakeholders
+
+Detail-oriented with strong data governance discipline
+
+Passionate about delivering high-quality analytics solutions

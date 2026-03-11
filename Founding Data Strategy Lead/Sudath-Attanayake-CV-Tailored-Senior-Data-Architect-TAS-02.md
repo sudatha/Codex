@@ -12,7 +12,7 @@ LinkedIn: linkedin.com/in/sudath-attanayake | Email: sudatha@gmail.com | Phone: 
 - Defined data migration and engineering patterns across on-premises source systems and cloud-hosted platforms.
 - Implemented governance frameworks spanning clinical data lifecycle controls, data standards, metadata, lineage, stewardship, and data quality monitoring.
 - Built deep hands-on experience with HL7 message structures and interface mapping for healthcare data integration.
-- Applied secure data exchange and privacy-by-design practices using OAuth2, SAML, TLS, and compliance-aligned controls.
+- Worked with secure data exchange and privacy-by-design practices using OAuth2, SAML, TLS, and compliance-aligned controls.
 - Contributed architecture artefacts, integration plans, risk mitigation, and governance forum outcomes in fast-moving transformation programs.
 
 ## Professional Summary
@@ -22,9 +22,9 @@ Senior Data Architect with 15+ years of experience shaping enterprise data platf
 - Enterprise Data Architecture and Target-State Design
 - Conceptual, Logical, and Physical Data Modelling
 - Healthcare Data Modelling (Clinical-Adjacent, Billing, Financial, Operational)
-- Microsoft Azure and Microsoft Fabric (OneLake) Architecture
+- Microsoft Azure and Microsoft Fabric (OneLake/DeltaLake/Lakehouse) Architecture
+- Medallion Architecture ( Bronze/Silver /Gold), Star Schema, and Snowflake Schema Design
 - Data Warehouse and Lakehouse Optimisation
-- Medallion Architecture, Star Schema, and Snowflake Schema Design
 - Data Migration Patterns (On-Prem to Cloud)
 - Data Governance Frameworks and Data Dictionary Standards
 - Metadata Management, Cataloguing, Lineage, and Stewardship
@@ -48,7 +48,7 @@ Senior Data Architect with 15+ years of experience shaping enterprise data platf
 - Defined Microsoft Fabric architecture blueprint patterns for ingestion, transformation, and consumption layers aligned to OneLake and medallion architecture.
 - Produced architecture artefacts including technical design inputs, integration plans, and delivery guidance for implementation teams.
 - Established cross-team governance practices for metadata ownership, lineage visibility, data quality controls, and operational reliability.
-- Partnered with architecture and delivery teams in iterative/kanban ways of working to accelerate delivery and reduce design rework.
+- Partnered with architecture and delivery teams in iterative ways of working to accelerate delivery and reduce design rework.
 
 ### Abano Healthcare Group, Melbourne, Australia and New Zealand (Hybrid)
 **Data and Analytics Architect | Nov 2022 - Apr 2025**
@@ -63,6 +63,9 @@ Senior Data Architect with 15+ years of experience shaping enterprise data platf
 **Senior DBA | Sep 2021 - Nov 2022**
 - Improved reliability, performance, and resilience of enterprise SQL Server platforms under strict service and governance requirements.
 - Supported secure platform operations and integration delivery for healthcare-aligned systems.
+- Drove performance and stability improvements across two large data warehouses.
+- Strengthened security and governance controls for patient-centric data.
+- Played a major role in reducing operational costs across the data ecosystem.
 
 ### Whanau Tahi Limited, Auckland, New Zealand
 **Senior Database Administrator | Oct 2016 - Sep 2021**
@@ -75,10 +78,12 @@ Senior Data Architect with 15+ years of experience shaping enterprise data platf
 **Senior DBA | Mar 2013 - Nov 2016**
 - Delivered database, HL7 integration, and reporting services for healthcare-aligned operations and management reporting.
 - Built dependable SQL-based ETL pipelines and healthcare message processing flows for production-grade data processing and analytics.
+- Served as principal DBA for a CDA-based long-term medical program launched by the New Zealand Ministry of Health.
 
 ### Whangarei District Council, Whangarei, New Zealand
 **Senior DBA | Sep 2007 - Mar 2013**
 - Led large-scale data migration and system integration for enterprise transformation initiatives.
+- Designed the target data platform and executed a large-scale council migration of property and rating, finance, and document datasets to a modern platform.
 
 ### Northland District Health Board, New Zealand
 **DBA | 2003 - 2007**
@@ -88,6 +93,8 @@ Senior Data Architect with 15+ years of experience shaping enterprise data platf
 ### Nations Trust Bank, Sri Lanka
 **Senior Manager, Information Technology | Sep 1999 - Mar 2003**
 - Led enterprise integration and infrastructure programs with strong delivery governance and risk controls.
+- Delivered bank integration projects with MasterCard and core delivery channels, including Internet Banking, ATM Switch, and Telebanking.
+- Managed and coordinated data migration from a legacy banking system to a modern platform.
 
 ## Education
 - MSc in Computer Science (First Class Honors)

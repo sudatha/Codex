@@ -1,0 +1,74 @@
+bout The Role:
+
+The Senior Data Engineer is a pivotal, hands‑on leadership role responsible for driving the design, implementation and optimisation of BKI's enterprise data ecosystem.
+
+
+You will shape and evolve our Central Data Platform, ensure alignment with Enterprise Data Architecture principles, and lead end‑to‑end engineering of robust, scalable data pipelines.
+
+
+A key part of this role is partnering with ICT, Performance & Reporting, and business stakeholders to uplift data governance, improve data quality, and support advanced analytics and insights across the organisation.
+
+
+You will also lead and mentor two Data Engineers, providing technical guidance and embedding best‑practice DevOps/DataOps, automated processes, CI/CD and cloud‑native engineering excellence.
+
+
+Key Responsibilities
+
+Lead the design and development of enterprise data models (conceptual, logical and physical).
+Develop and enhance scalable data pipelines across APIs, databases, third‑party systems and more.
+Ensure high‑quality ingestion, monitoring and orchestration of data into the Enterprise Data Platform.
+Drive enterprise‑wide data governance maturity, including metadata, lineage, cataloguing and classification.
+Embed DevOps/DataOps practices including CI/CD automation, observability and platform lifecycle management.
+Work closely with business leaders to translate requirements into robust engineering solutions.
+Drive continuous improvement, performance optimisation and alignment to BKI's strategic objectives.
+
+We are excited about you because you have:
+
+Hands on experience with key Azure cloud data services, including:
+
+Azure Databricks
+Azure Data Lake Storage
+Azure SQL/Synapse
+Event Grid, Event Hub, Functions
+Azure DevOps, Git, CI/CD
+ARM/Bicep for IaC
+(Desirable) Microsoft Fabric
+Strong data governance and metadata management capabilities (Purview desirable).
+A logical, structured problem-solving approach with strong analytical skills.
+Excellent stakeholder engagement skills and the ability to explain technical concepts to non-technical audiences.
+Experience leading teams or mentoring other engineers.
+Experience working within education or regulated environments (desirable).
+
+
+
+We can offer you:
+
+Attractive work-life balance and flexible work options
+Free onsite parking for most campuses
+Professional development programs
+Fitness Passport Program with exclusive access for you and your family to 230+ locations Australia wide
+Counselling support (EAP) and Health & Wellbeing initiatives throughout the year
+Meaningful work that drives positive social impact
+The opportunity to build a career in a world leading vocational education and training sector, with diverse and emerging career opportunities across Australia.
+
+The Essential Paperwork:
+
+Working with Children Clearance (WWCC)
+Current police check
+Certified right to work documentation
+Certified copies of your qualifications and transcripts
+
+Need support with your application?
+
+For any accessibility requirements during the recruitment process, please contact careers@kangan.edu.au
+
+Ready to make the switch? Click 'Apply Now' to join our team by sending us your updated resume and cover letter.
+
+
+Want to know more? Contact careers@kangan.edu.au
+
+
+Only applications from candidates with valid working rights will be considered. We are a child safe and equal opportunity employer and therefore the successful candidate will be required to hold a current Working with Children check clearance
+
+
+Bendigo Kangan Institute acknowledges that their campuses are located on the ancestral lands of the Djaara people of Dja Dja Wurrung, Wurundjeri Peoples of the Kulin Nations, Yorta Yorta Nations and the Gunaikurnai people. The Institute respects their Elders past present and emerging and cultural heritage, and we recognize their continuing connection to land, waters, and culture

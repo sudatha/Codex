@@ -1,0 +1,43 @@
+# Data Migration Analyst / Business Analyst
+
+## About the Company
+
+Join a dynamic, purpose-driven organisation supporting innovation, creativity, and community impact across Victoria. The team is leading a major digital transformation to modernise how programs, partnerships, and stakeholder engagement are managed. This includes the implementation of a new CRM platform to improve how the organisation engages with stakeholders, manages programs, and handles data.
+
+## The Opportunity
+
+We are seeking a Data Migration Analyst / Business Analyst to support the final stages of this transformation, with a strong focus on data migration and data readiness.
+
+This role will work closely with the project team and Data Analyst to understand how system changes impact data structures, fields, and migration templates. You will act as the bridge between stakeholders, vendors, and the technical team, ensuring the right information is gathered and translated so the data migration process can progress efficiently.
+
+It is a role suited to someone who enjoys untangling complexity, working with data models, and bringing clarity to evolving systems and requirements.
+
+## What You'll Do
+
+- Analyse the new platform to identify required fields and data structures.
+- Review and validate migration templates against system configuration.
+- Identify how changes to functionality impact related data fields and tables.
+- Gather information from vendors, stakeholders, and project documentation.
+- Translate system changes into clear requirements for data migration.
+- Work closely with the Data Analyst to ensure data can be sourced and loaded correctly.
+- Support the project team in identifying bugs or changes that impact data.
+- Maintain clear documentation around field definitions, data sources, and mappings.
+
+## What You'll Bring
+
+You enjoy working with complex data environments and can bring structure and clarity when information is coming from multiple sources. You are comfortable translating technical concepts into clear requirements and ensuring others have the context they need to deliver their work effectively.
+
+You communicate clearly, organise information logically, and can create structured inputs that allow technical specialists to focus on execution.
+
+- Experience as a Business Analyst or Data Analyst within system implementation projects.
+- Strong understanding of data models, field mapping, and data migration concepts.
+- Experience working with CRM platforms, ideally Microsoft Dynamics 365.
+- Ability to analyse how system changes impact data structures and relationships.
+- Strong attention to detail and ability to manage complex information sets.
+- Clear and structured communication style, able to document and organise requirements.
+- Comfortable working closely with technical specialists and supporting their workflow.
+- Ability to gather and synthesise information from vendors, stakeholders, and project teams.
+
+## Note
+
+Not sure if you meet these requirements? Please apply. The organisation is happy to discuss individual circumstances.

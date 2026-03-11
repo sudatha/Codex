@@ -1,0 +1,37 @@
+What We’re Looking For
+
+
+
+We are seeking a Senior Analytics Consultant to join our Data Practice. You are a visual storyteller who excels at turning complex data into actionable insights. You thrive in a high-visibility, stakeholder-facing environment, combining Power BI mastery with elite consulting skills to help our clients make data-driven decisions.
+
+
+
+You might work on:
+
+
+
+Visualize & Storytell: Design and develop high-impact, executive-level Power BI dashboards and reports that drive business value.
+
+Semantic Modeling: Architect robust, scalable data models using DAX and Power Query (M) to ensure a "single source of truth."
+
+Stakeholder Engagement: Lead workshops and presentations, translating ambiguous business questions into technical requirements and elegant visual solutions.
+
+End-to-End Delivery: Collaborate with Data Engineers to ensure underlying data structures are optimized for front-end performance and user experience (UX).
+
+Enablement & Strategy: Define visualization best practices, governance frameworks, and self-service analytics strategies for enterprise clients.
+
+
+
+Ideally you'll have;
+
+
+
+Technical Core: Expert-level Power BI, including advanced DAX, Paginated Reports, and Power BI Service administration.
+
+Data Proficiency: Strong SQL skills for data profiling and an understanding of star schema/dimensional modeling (Kimball).
+
+Communication: Exceptional "boardroom presence"—the ability to explain complex data trends to non-technical stakeholders with confidence and clarity.
+
+Consulting Mindset: Proven track record in requirement gathering, UI/UX design principles for dashboards, and managing client expectations.
+
+Platform Knowledge: Experience with the Fabric/Power BI ecosystem and integration with cloud sources (Azure Synapse, Snowflake, or Databricks).

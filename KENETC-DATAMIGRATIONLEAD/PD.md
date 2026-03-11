@@ -1,0 +1,36 @@
+# Data Migration Lead
+Asset Management Transformation
+
+Initial 12 Month Fixed-Term Contract
+
+## About the Role
+Due to significant global growth, Kinetic are undertaking a large-scale, multi-stream program of work designed to transform the technology landscape, create simplified and consistent ways of working, and ensure future growth plans are underpinned by seamless technology products and processes.
+
+This role oversees the end-to-end migration lifecycle including scope definition, extraction, transformation, loading (ETL), validation, reconciliation, defect management, and cutover planning. The Data Migration Lead will work closely with internal analysts, business SMEs, Data Governance Leads, SI Partners, and system owners to ensure high-quality, fit-for-purpose data is available at go-live and beyond.
+
+## What You Will Do
+- Lead end-to-end data migration delivery across the Asset Management transformation.
+- Drive data extraction, cleansing, validation, and reconciliation activities.
+- Manage migration plans, schedules, mock loads, risks, and stakeholder alignment.
+- Build and maintain source-to-target mappings, transformation rules, and documentation.
+- Collaborate with IT, architects, SMEs, and SI partners to ensure readiness and data quality.
+- Apply strong SQL, advanced Excel, and data validation skills within large transformation programs.
+
+## What You Will Need
+- 5+ years in data migration, including 2+ years in a leadership role.
+- Proven experience delivering complex multi-system migrations.
+- Strong understanding of ETL processes, data pipelines, and migration tools.
+- Skilled in coordinating across business and technical teams to manage requirements, timelines, and risks.
+- Hands-on capability with SQL, advanced Excel, and data validation.
+- Experience in large-scale transformation or system implementation programs.
+- Relevant tertiary qualification in Information Systems, Data Management, or a related field.
+
+## About Us
+At Kinetic, we don't just move people - we're creating the positive change our planet needs. As a leader in sustainable transport, we're committed to creating cleaner, safer, and greener environments for generations to come.
+
+Our size and scale give our people real opportunities to learn, grow, and progress in their careers. Calm, positive and respectful team players thrive here. Our people embrace change and are encouraged to stretch their comfort zone while making a difference. We challenge each other to be our best.
+
+We're driven by respect, diversity and genuine connection. From networking groups to community partnerships and volunteering, our camaraderie naturally brings people together. Our energy and dedication keep communities moving and our people growing.
+
+## How to Apply
+Kinetic is proud to be an Equal Opportunity Employer and our people represent the community which we service. We invite all suitably qualified applicants to apply, including First Nations People, and people from diverse social, cultural and gender backgrounds.

@@ -1,0 +1,61 @@
+A unique opportunity to join Silverchain is now available as we progress our digital ambitions! Reporting to the Digital Program Technical Lead the Data Architect plays a strategic role in shaping the data foundations of Silverchain's Digital Program - a multi-year transformation to deliver a national operational care platform powered by Microsoft Dynamics 365.
+
+This role provides assurance that program data is structured, secure, integrated, and aligned with business goals, leveraging the Microsoft ecosystem to enable analytics, reporting, and AI-driven insights.
+
+
+What's on offer
+
+
+Fulltime One-year Fixed Term role. Monday-Friday 76 hours per fortnight.
+Hybrid role - working from home, flexible location VIC, WA, SA or NSW
+Working for a non-profit organisation, you can salary package up to $18,500 tax free.
+Everyday discounts, including discounted vouchers for Coles, Woolworths, Amazon, Myer, The Good Guys and more.
+Comprehensive health and wellbeing resources and support.
+
+What we're looking for
+
+To thrive in this role you'll need to have:
+
+
+Tertiary qualifications in Computer Science, Data, Information Technology or related discipline.
+Proven experience as a Data Architect or Enterprise Architect in large-scale enterprise or government programs.
+Strong understanding of enterprise architecture frameworks and certifications in TOGAF or equivalent.
+Deep expertise in Azure data services:
+Microsoft Fabric.
+Azure Data Factory.
+Azure Synapse Analytics.
+Azure Data Lake Storage.
+Azure SQL / Cosmos DB.
+Experience in Dynamics 365 CE (Dataverse) and Dynamics 365 Finance & operations, including data models, integration, and reporting.
+Proficiency in Power Platform (Power BI, Power Automate, Power Apps) for no-code/low-code.
+
+The role
+
+As a Data Architect:
+
+
+Define and maintain the enterprise data architecture aligned with TOGAF principles, industry best practices, and business objectives.
+Establish the program data strategy and roadmap for integrating Dynamics 365 CE and F&O with Azure data services and other LOB systems/services.
+Design and document data models, integration patterns, and reference architectures across Dataverse, Azure Data Factory, Microsoft Fabric, Azure Synapse, and related services.
+Create robust data integration strategies between Dynamics 365 CE/F&O, third-party systems, and external data sources.
+Enforce, and where necessary support the development of data governance frameworks, metadata management, data lineage, and data quality standards.
+Establish policies and controls for security, privacy, and access management across enterprise data assets.
+Work with business stakeholders to translate requirements into scalable data solutions.
+Collaborate with solution architects, application teams, and infrastructure specialists within the Digital Program, Silverchain's Data Strategy and Analytics Team and Digital Services to ensure alignment on design and integration.
+
+Why choose Silverchain
+
+Everyone at Silverchain, from our care teams to leadership, plays a vital role in delivering Best Care. It's a team effort. Best Care is care that is safe, personal, connected and effective.
+
+We are proudly one of the few Australian home care providers accredited in both national health and aged care standards. This means the quality of care we provide is expected to meet the same standards as a hospital or residential aged care facility. As a not-for-profit organisation, we re-invest our funds into research and developing innovative models of care to set the industry benchmark for the provision of the best care in the home. We'll also provide you with opportunities to help you develop and grow in your career, with training and education programs to help you achieve your goals
+
+
+How to apply
+
+
+To submit your application, click ‘Apply'.
+
+
+At Silverchain, we recognise the positive contribution that a diverse workforce makes to our organisation where individuals can be authentic, are respected and celebrated. We strongly encourage applications from Indigenous Australians, people of all ages, gender, abilities, culturally diverse and linguistic backgrounds.  
+
+

@@ -1,0 +1,63 @@
+Senior Data Engineer — Healthcare Analytics & Data Platform
+
+We are looking for a highly experienced and hands-on Senior Data Engineer to design, build, and scale our healthcare data analytics platform. You’ll work with clinical EMR and imaging data. 
+This role is ideal for someone who has deep technical expertise, understands healthcare data standards (FHIR/USCDI/DICOM), and has experience with modern OLAP databases like Snowflake and ClickHouse and Data Lake architecture.
+
+Roles & Responsibilities
+
+Data Ingestion & Integration
+
+●	Design and implement robust, scalable data ingestion frameworks from EMR systems (e.g., Nextech, Nextgen, ModMed EMA, Epic, Cerner) and Imaging systems & PACS (e.g. HEYEX1 &2, FORUM, Optos Advance, Axis, Continuum, etc.).
+●	Ingest structured and semi-structured data (including clinical, & imaging metadata) using batch and real-time methods (CDC, streaming).
+●	Build and maintain connectors using APIs, streams and other ingestion technologies.
+
+Data Transformation & Analytics
+
+●	Build and maintain ETL/ELT pipelines using transformation frameworks (dbt, Spark, Python, SQL).
+●	Implement data quality checks, validation, lineage, and error-handling across pipelines.
+●	Optimize transformation workloads for performance and cost efficiency.
+
+OLAP & Data Warehouse Architecture
+
+●	Lead the design, modelling, and optimization of analytics-ready data structures across modern OLAP systems and scalable data lake / Lakehouse patterns (e.g., Databricks, Snowflake, ClickHouse).
+●	Apply dimensional modelling (E.g. Star schema) and other data modelling best practices to support reporting and analytics.
+
+Platform & Tooling
+
+●	Evaluate and standardize tools for orchestration (Apache Airflow), real-time processing (Flink/Kafka), and integration (dbt, Airbyte)
+●	Implement monitoring/observability (logging, alerting) for pipeline reliability.
+●	Partner with DevOps for CI/CD, IaC (Terraform), and deployment automation.
+
+Stakeholder Collaboration
+
+●	Work closely with Data Scientists, Product Owners, and business stakeholders to translate requirements into data engineering solutions.
+●	Provide technical leadership, mentoring, and direction to junior engineers
+
+Governance & Compliance
+
+●	Ensure data governance, security, and compliance with healthcare regulations (HIPAA, PHI/PII protections).
+
+Required Qualifications
+
+●	5+ years of professional experience in data engineering or related roles.
+●	Strong expertise in healthcare data (EMR/EHR systems, clinical & imaging data workflows).
+●	Hands-on experience with data lake/Lakehouse architectures and OLAP databases like Databricks, Snowflake, ClickHouse, etc. including schema design, performance tuning, and workload optimization.
+●	Excellent SQL skills and deep understanding of data modelling.
+●	Proficiency in Python, and experience with data pipeline/orchestration tools (Airflow, dbt, Spark, Airbyte).
+●	Experience with streaming ingestion and processing (Kafka, Pub/Sub, Flink).
+●	Solid experience with Azure cloud platform and multi-party SaaS data services.
+●	Experience with healthcare standards like FHIR, HL7 and DICOM.
+●	Familiarity with data governance, data quality frameworks, and regulatory compliance.
+
+Nice to have Qualifications
+●	Experience with modern AI coding assistants (e.g., GitHub Copilot, Claude Code) to accelerate development workflows, automate code generation, and improve productivity. 
+●	Familiarity with integrating LLMs and AI agents with database systems and data platforms.
+
+Personal attributes:
+●	Collaborative, responsive, accountable
+●	Curious, embraces learning opportunities, self-directed improvement
+●	Strong individual contributor motivated by collective team outcomes
+●	Knows when to ask for help and when to offer it
+●	Commitment to high-quality outputs and root-cause solutions
+●	Maintains effectiveness and momentum through change
+●	Ability and desire to thrive in a lean, fast-paced environment, building real solutions

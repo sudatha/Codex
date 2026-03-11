@@ -1,0 +1,22 @@
+the About the Company
+Davidson is partnering with a major bank to bring a Data and Analytics consultant to sit within the retail banking space. They're investing in sharper reporting and decision-making, and need someone who can turn data into insight that leaders actually use,
+
+About the Role
+This Data & Analytics Specialist contract sits within a retail banking environment, focusing on Power BI reporting and SQL-driven analysis. You'll work closely with business owners and stakeholders to understand what they need, translate that into meaningful reporting, and present insights clearly and confidently.
+
+Key responsibilities include:
+
+Building and enhancing Power BI dashboards and reports for retail banking stakeholders
+Writing and optimising SQL queries to extract, validate and transform data for reporting
+Producing actionable insights and trends to support business decision-making
+Presenting reporting outcomes and insights to business owners and stakeholders
+Ensuring reporting is accurate, consistent, and aligned to business definitions and metrics
+Supporting continuous improvement of reporting processes, data quality, and usability
+About You
+To be successful, the ideal candidate will bring:
+
+Strong, hands-on Power BI capability (data modelling, DAX, visuals, report optimisation)
+Strong SQL skills (complex querying, joins, aggregation, performance considerations)
+Proven experience in retail banking (this is essential)
+Confidence engaging with and presenting to business owners/stakeholders
+Experience working within banking or financial services
